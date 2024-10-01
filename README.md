@@ -33,7 +33,7 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 # Tech Used 
 
-![image](https://github.com/user-attachments/assets/fb569ce3-ea19-4455-9bf4-1eff864fba39)    ![image](https://github.com/user-attachments/assets/fabf5e01-b3cd-466d-b5dd-8a779d6d46e1)
+![image](https://github.com/user-attachments/assets/fb569ce3-ea19-4455-9bf4-1eff864fba39)              ![image](https://github.com/user-attachments/assets/fabf5e01-b3cd-466d-b5dd-8a779d6d46e1)
 
 
 
