@@ -11,17 +11,20 @@ Conducted a comprehensive analysis of Blinkit's sales data. It involved examinin
 # KPIs
 
 • Total Sales: Overall revenue generated.
+
 • Average Sales: Revenue per sale.
+
 • Number of Items: Total items sold.
+
 • Average Rating: Customer rating for items.
 
 
 # Charts
 
-*Total Sales by Fat Content: Analyze the impact of fat content on total sales, including additional KPI metrics.
-*Total Sales by Item Type: Identify top-performing item types, including additional KPI metrics.
-*Total Sales by Outlet: Compare sales across outlets by fat content.
-*Total Sales by Outlet Establishment: Evaluate the impact of outlet age or type on sales
-*Sales by Outlet Size: Analyze the correlation between outlet size and total sales.
-*Sales by Outlet Location: Assess geographic sales distribution.
-*All Metrics by Outlet Type: Provide a comprehensive view of key metrics by outlet type.
+* Total Sales by Fat Content: Analyze the impact of fat content on total sales, including additional KPI metrics.
+* Total Sales by Item Type: Identify top-performing item types, including additional KPI metrics.
+* Total Sales by Outlet: Compare sales across outlets by fat content.
+* Total Sales by Outlet Establishment: Evaluate the impact of outlet age or type on sales
+* Sales by Outlet Size: Analyze the correlation between outlet size and total sales.
+* Sales by Outlet Location: Assess geographic sales distribution.
+* All Metrics by Outlet Type: Provide a comprehensive view of key metrics by outlet type.
