@@ -58,15 +58,11 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 * On the basis of sales top 5 items sold are as follows:
   
-          * Fruits and Vegetables (178k)
-  
-          * Snack Items (175k)
-  
-          * Household (135k)
-  
-          * Frozen Foods (118K)
-  
-          * Dairy (101k)   
+          1. Fruits and Vegetables (178k)
+          2. Snack Items (175k)
+          3. Household (135k)
+          4. Frozen Foods (118K) 
+          5. Dairy (101k)   
 
 
 
