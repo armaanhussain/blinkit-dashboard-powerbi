@@ -55,11 +55,12 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
   $776K (64.6% of the toal sales) and Regular items made a total sales of about $425k (35.4% of the toal sales)
 * Be it Tier1 or Tier2 or Tier3 city the sales of Low Fat Content items is grater than that of Regular ones.
 * On the basis of sales top 5 items sold are as follows:
-        * Fruits and Vegetables (178k)
-        * Snack Items (175k)
-        * Household (135k)
-        * Frozen Foods (118K)
-        * Dairy (101k)   
+
+          * Fruits and Vegetables (178k)
+          * Snack Items (175k)
+          * Household (135k)
+          * Frozen Foods (118K)
+          * Dairy (101k)   
 
 
 
