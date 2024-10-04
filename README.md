@@ -57,10 +57,15 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 * Be it Tier1 or Tier2 or Tier3 city the sales of Low Fat Content items is grater than that of Regular ones.
 
 * On the basis of sales top 5 items sold are as follows:
+  
           * Fruits and Vegetables (178k)
+  
           * Snack Items (175k)
+  
           * Household (135k)
+  
           * Frozen Foods (118K)
+  
           * Dairy (101k)   
 
 
