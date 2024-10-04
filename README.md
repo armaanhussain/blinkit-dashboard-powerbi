@@ -51,6 +51,12 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 # Insights 
 
+* It has been obsertved that people tend to choose for Low Fat content items over Regular. Low Fat items made a total sales of about
+  $776K (64.6% of the toal sales) and Regular items made a total sales of about $425k (35.4% of the toal sales)
+* Be it Tier1 or Tier2 or Tier3 city the sales of Low Fat Content items is grater than that of Regular ones.
+* On the basis of sales top 5 items sold are as follows:
+      *   
+
 
 
 
