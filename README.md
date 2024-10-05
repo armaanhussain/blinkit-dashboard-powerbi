@@ -68,6 +68,7 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
   
             5. Dairy (101k)
 
+
   * In the year 2010 the outlet did a total sales of about 78k.
     It increased to 130k in 2012 and remained pretty much constant or same upto 2017.
     After 2017 it staeted to increase and peaked at 2018 with a sales of more than 200k (204.5k in total).
