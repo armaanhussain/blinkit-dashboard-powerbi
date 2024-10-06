@@ -51,6 +51,8 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 # Insights 
 
+* Total sales reached $1.20M with an average sale of $141, encompassing 8553 items and an average customer rating of 3.9.
+
 * It has been obsertved that people tend to choose for Low Fat content items over Regular.
    Low Fat items made a total sales of about $776K (64.6% of the toal sales) and Regular items made a total sales of about $425k (35.4% of the toal sales)
 
