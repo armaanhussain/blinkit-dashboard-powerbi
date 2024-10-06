@@ -51,15 +51,16 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 # Insights 
 
-* It has been obsertved that people tend to choose for Low Fat content items over Regular. Low Fat items made a total sales of about
-  $776K (64.6% of the toal sales) and Regular items made a total sales of about $425k (35.4% of the toal sales)
+* It has been obsertved that people tend to choose for Low Fat content items over Regular.
+   Low Fat items made a total sales of about $776K (64.6% of the toal sales) and Regular items made a total sales of about $425k (35.4% of the toal sales)
+
 
 * Be it Tier1 or Tier2 or Tier3 city the sales of Low Fat Content items is grater than that of Regular ones.
 
 * On the basis of sales top 5 items sold are as follows:
 
             1. Fruits and Vegetables (178k)
-  
+
             2. Snack Items (175k)
   
             3. Household (135k)
@@ -80,10 +81,12 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
   After 2020 sales got into the same range as from 2012-2017 about 131k.
 
 
+
 * On the basis of the outlet size it was observed that tha High sized outles have done the least sales of just about 250k
   (20% of the total sales), Medium sized stores have pulled out the maximum sales about 500k (42% of the total sales),Small
   outlet size did about 444K (37% of the total sales).
   
+
 
 * On the basis of outlet location it was observed that Tier1 City does the least of all sales (336k) followed by Tier2 (393K)
   and the maximum sales is done by Tier3 states (472K).    
