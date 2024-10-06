@@ -70,10 +70,10 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 
 
 * In the year 2010 the outlet did a total sales of about 78k.
-    It increased to 130k in 2012 and remained pretty much constant or same upto 2017.
-    After 2017 it staeted to increase and peaked at 2018 with a sales of more than 200k (204.5k in total).
-    After 2018 sales again started to dip making lowest sales since 2012 of about 129k in 2020.
-    After 2020 sales got into the same range as from 2012-2017 about 131k.
+  It increased to 130k in 2012 and remained pretty much constant or same upto 2017.
+  After 2017 it staeted to increase and peaked at 2018 with a sales of more than 200k (204.5k in total).
+  After 2018 sales again started to dip making lowest sales since 2012 of about 129k in 2020.
+  After 2020 sales got into the same range as from 2012-2017 about 131k.
 
 * On the basis of the outlet size it was observed that tha High sized outles have done the least sales of just about 250k
   (20% of the total sales), Medium sized stores have pulled out the maximum sales about 500k (42% of the total sales),Small
