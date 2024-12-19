@@ -1,4 +1,4 @@
-# blinkit-dashboard-powerbi
+# Blinkit Sales Dashboard (powerbi)
 
 
 ![image](https://github.com/user-attachments/assets/22656767-c2dc-476f-8e66-29dc6d639b46)
