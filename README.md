@@ -89,6 +89,47 @@ Created an interactive dashboard which does a comprehensive analysis of Blinkit'
 * On the basis of outlet location it was observed that Tier1 City does the least of all sales (336k) followed by Tier2 (393K)
   and the maximum sales is done by Tier3 states (472K).    
 
+# Suggestions 
+
+* By implementing the following suggestions, the business can strengthen its market position, improve underperforming segments, and achieve sustained growth.
+
+1. **Capitalize on Low Fat Product Demand:**  
+   - Increase the stock and variety of Low Fat items as they contribute the most to total sales (64.6%).  
+   - Enhance marketing campaigns emphasizing the health benefits of Low Fat products, especially in Tier 2 and Tier 3 cities where sales are higher.
+
+2. **Boost Sales of Regular Items:**  
+   - Analyze customer preferences and feedback on Regular items to address any gaps.  
+   - Consider promotional strategies like combo offers or discounts to encourage customers to purchase Regular items.  
+
+3. **Expand Product Categories Driving Sales:**  
+   - Focus on top-performing categories like Fruits and Vegetables, Snack Items, and Household products.  
+   - Introduce complementary products within these categories to cross-sell and increase average order value.
+
+4. **Revitalize Sales in Tier 1 Cities:**  
+   - Tier 1 cities have the lowest sales ($336K). Target these cities with localized marketing campaigns, premium product offerings, and exclusive discounts.  
+   - Explore partnerships with local influencers or brands to improve reach and engagement in these regions.
+
+5. **Improve High-Sized Outlet Performance:**  
+   - High-sized outlets contribute the least to total sales (20%). Evaluate operational efficiency, location suitability, and customer footfall to identify areas for improvement.  
+   - Optimize the layout and product placement to attract more customers and encourage higher spending.  
+
+6. **Leverage Success of Medium and Small Outlets:**  
+   - Medium outlets are the best-performing in sales ($507.9K), followed by Small outlets ($444.8K). Invest in opening more outlets of these sizes in Tier 2 and Tier 3 cities where demand is higher.  
+   - Maintain consistent product availability and ensure quality service to sustain their performance.
+
+7. **Analyze and Stabilize Yearly Sales Trends:**  
+   - Sales peaked in 2018 but dropped significantly in 2020 ($129K). Investigate the cause of the decline and implement strategies to stabilize growth, such as targeted campaigns during low sales periods.  
+   - Develop loyalty programs or seasonal promotions to maintain consistent customer engagement year-round.
+
+8. **Enhance Customer Experience to Improve Ratings:**  
+   - With an average rating of 3.9, focus on improving customer satisfaction by addressing feedback on product quality, pricing, and service.  
+   - Train staff to enhance in-store experience and reduce customer complaints.
+
+9. **Focus on Outlet Location Dynamics:**  
+   - Tier 3 cities drive the highest sales ($472K). Consider expanding operations in these areas to further capitalize on the demand.  
+   - Study customer behavior in Tier 2 cities ($393K) to replicate successful strategies from Tier 3.
+
+
 
 
 
